@@ -1,0 +1,22 @@
+.padre {
+	width: 250px;
+	height: 50px;
+	padding-top: 40px; 
+	padding-right: 20px;
+	padding-bottom: 70px;
+	padding-left: 100px;
+	border-top: 40px solid red;
+	border-right: 10px solid red;
+	border-bottom: 20px solid red;
+	border-left: 10px solid red;
+	margin: 120px 60px 30.5px 60px;
+	background-color: orange;
+}
+
+.hijo {
+	width: 150px;
+	height: 20px;
+	font-family: helvetica;
+	color: white;
+	background-color: purple;
+}
