@@ -95,8 +95,9 @@ p {
 }
 
 .copy {
-	background: #2ECC71;
-	padding: 10px 20px;
+	color: #fff;
+	background: #1189E1;
+	padding: 5px 20px;
 }
 
 .modal {
@@ -116,7 +117,7 @@ p {
     color: #fff;
     font-size: 30px;
     text-align: center;
-    margin: 15px 0;
+    margin: 40px 0;
 }
 
 .imagen {
@@ -147,12 +148,11 @@ p {
     background: #fff;
     width: 25px;
     height: 25px;
-    margin: 15px auto;
+    margin: 25px auto;
     text-align: center;
-    text-decoration: none;
-    font-size: 25px;
+    font-size: 20px;
     color: #000;
     padding: 5px;
-    border-radius: 50%;
+    border-radius: 30%;
     line-height: 25px;
 }
